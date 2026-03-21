@@ -1,0 +1,17 @@
+E:\Backend Developer\c#-projects\hello-world\hello-world\bin\Debug\net8.0\hello-world.exe
+E:\Backend Developer\c#-projects\hello-world\hello-world\bin\Debug\net8.0\hello-world.deps.json
+E:\Backend Developer\c#-projects\hello-world\hello-world\bin\Debug\net8.0\hello-world.runtimeconfig.json
+E:\Backend Developer\c#-projects\hello-world\hello-world\bin\Debug\net8.0\hello-world.dll
+E:\Backend Developer\c#-projects\hello-world\hello-world\bin\Debug\net8.0\hello-world.pdb
+E:\Backend Developer\c#-projects\hello-world\hello-world\bin\Debug\net8.0\PasswordGenerator.dll
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.csproj.AssemblyReference.cache
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.AssemblyInfoInputs.cache
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.AssemblyInfo.cs
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.csproj.CoreCompileInputs.cache
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-wo.578816B3.Up2Date
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.dll
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\refint\hello-world.dll
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.pdb
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\hello-world.genruntimeconfig.cache
+E:\Backend Developer\c#-projects\hello-world\hello-world\obj\Debug\net8.0\ref\hello-world.dll
