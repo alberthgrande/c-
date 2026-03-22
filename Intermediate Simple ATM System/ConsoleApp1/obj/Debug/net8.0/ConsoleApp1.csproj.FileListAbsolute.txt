@@ -12,3 +12,4 @@ E:\Backend Developer\c#-projects\Intermediate Simple ATM System\ConsoleApp1\obj\
 E:\Backend Developer\c#-projects\Intermediate Simple ATM System\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 E:\Backend Developer\c#-projects\Intermediate Simple ATM System\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 E:\Backend Developer\c#-projects\Intermediate Simple ATM System\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\Backend Developer\c#-projects\Intermediate Simple ATM System\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
